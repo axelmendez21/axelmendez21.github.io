@@ -32,3 +32,4 @@ My GitHub page is https://github.com/axelmendez21
 	helped me understand what ifstream did. This lab was a great way for me to work with
 	input files for a task that would take so long to do manually, which is to find misspelled
 	words by seeing if the word in a document has the same spelling as the word in the dictionary. 
+
