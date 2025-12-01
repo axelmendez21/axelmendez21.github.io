@@ -19,6 +19,7 @@ My GitHub page is https://github.com/axelmendez21
 	something to do with the formula.
 
 * lab 8
+  
 	The second part of lab 8 was very fun because the code made a pretty cool pattern
 	in the terminal. This lab helped me visualize loops and it's different types such as
 	outer loops and inner loops. The pattern looked like a pyramid which made it satisfying
@@ -26,10 +27,12 @@ My GitHub page is https://github.com/axelmendez21
 	and helped me visualize the basics of loops.
 
 * lab 9
+  
 	The first part of lab 9 had a lot going on, but it made me and my partner use input
 	and output files, which I was not familiar with at first. From this lab, I was able
 	I was able to read words from a file, and then put those words into a vector. This
 	helped me understand what ifstream did. This lab was a great way for me to work with
 	input files for a task that would take so long to do manually, which is to find misspelled
 	words by seeing if the word in a document has the same spelling as the word in the dictionary. 
+
 
