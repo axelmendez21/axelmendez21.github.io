@@ -1,0 +1,34 @@
+# Hello World
+
+This is my home page. My name is Axel Mendez and I am a student at Cal State Fullerton and my major is Computer Science.
+
+## Computer Science Projects
+
+My GitHub page is https://github.com/axelmendez21
+
+### CPSC 120
+
+* lab 3
+	
+	The second part of lab 3 was very interesting to me as there was a lot of math involved 
+	that made it pretty complex to understand for me. The code was supposed to find the
+	differences in days between 2 dates, given a day, month, and year. This project made me
+	realize the importance of functions, as it would be inefficient to write the formula
+	every single time we were going to use it, and it helped with debugging the program
+	because when the program didn't output the expected results, I knew it was probably 
+	something to do with the formula.
+
+* lab 8
+	The second part of lab 8 was very fun because the code made a pretty cool pattern
+	in the terminal. This lab helped me visualize loops and it's different types such as
+	outer loops and inner loops. The pattern looked like a pyramid which made it satisfying
+	when me and my partner got it all correct. This lab was just satisfying in general
+	and helped me visualize the basics of loops.
+
+* lab 9
+	The first part of lab 9 had a lot going on, but it made me and my partner use input
+	and output files, which I was not familiar with at first. From this lab, I was able
+	I was able to read words from a file, and then put those words into a vector. This
+	helped me understand what ifstream did. This lab was a great way for me to work with
+	input files for a task that would take so long to do manually, which is to find misspelled
+	words by seeing if the word in a document has the same spelling as the word in the dictionary. 
